@@ -2,7 +2,10 @@
 
 A header file to use delay functions in embedded c or c
 
+Include the header file in your main file before using the functions 
 
+usage :
+#include "delay.h"
 
 usage:
 
